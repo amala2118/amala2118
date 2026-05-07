@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Aamla, Software engineering student. Exploring cybersecurity, web technologies & bug bounty hunting. Building skills in vulnerability assessment and ethical hacking, one CTF and commit at a time. Passionate about creating a safer digital world
+I'm Amala, Software engineering student. Exploring cybersecurity, web technologies & bug bounty hunting. Building skills in vulnerability assessment and ethical hacking, one CTF and commit at a time. Passionate about creating a safer digital world
 
 <a href="www.linkedin.com/in/amala-joseph-175ab321a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
